@@ -1,4 +1,4 @@
-<h2 align="center">Cipriana Coquia Memorial Dialysis Kidney Center (CCMDKC)</h2>
+<h2 align="center">Cipriana Coquia Dialysis Kidney Center (CCMDKC)</h2>
 
 # React + Vite
 
@@ -14,4 +14,4 @@ The system is a user-friendly medical application that offers a range of feature
 
 To view the backend implementation of this system, please refer to the repository linked below. The backend handles core functionalities such as data management, authentication, and server-side logic that support the application’s features and ensure secure and efficient system operations.
 
-🔗 Backend Repository: https://github.com/reigneravenramos/CCMDKC-Server
+🔗 Backend Repository: https://github.com/reigneravenramos/CDKC-Server
