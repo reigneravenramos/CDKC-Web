@@ -1,4 +1,4 @@
-<h2 align="center">Cipriana Coquia Dialysis Kidney Center (CCMDKC)</h2>
+<h2 align="center">Cipriana Dialysis Kidney Center (CDKC)</h2>
 
 # React + Vite
 
